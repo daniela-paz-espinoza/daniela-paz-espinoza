@@ -1,6 +1,4 @@
-
-
-![binary-system-557601_960_720](https://user-images.githubusercontent.com/108145341/196954931-3c967acb-115e-4d7e-b5da-a237230b18d1.jpg)
+<img src="https://media0.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e475cux3ogzlm5r1v134n7vng4b8u4xc3vg0xr1f0k5&rid=200w.webp&ct=g" width="200"/>
 
 ### Hi I´m Daniela 👋
 
