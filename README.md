@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Mi nombre es Daniela
 #### Front - End Developer
-![Front - End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front - End Developer](![image](https://user-images.githubusercontent.com/108145341/198384002-5c580e0b-e6c5-4e32-becd-b88e6418d71c.png))
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
