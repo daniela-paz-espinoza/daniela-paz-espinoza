@@ -7,22 +7,8 @@ Soy Front-End Developer. Tengo experiencia en trato con clientes, por lo que he 
 Skills:  REACT / JS / HTML / CSS
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-paz-espinoza&theme=dark&show_icons=true)
-
 ### 📫 **How to reach me:**
 - ➡️ daniela.paz.1990@gmail.com
 - ➡️ www.linkedin.com/in/daniela-espinoza-torres
-
-
-
-```js
-  const Daniela = {
-   code: [Javascript, HTML5, CSS3],
-   tools: [React, Node, Git, Jest, GitHub, Trello, Firebase],
-  design: [Figma],
-  challenge: "I'm learning web development in #180days, focused on JavaScript and React"
-}
-
 
 
