@@ -10,6 +10,11 @@ Skills:  REACT / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-paz-espinoza&theme=dark&show_icons=true)
 
+### 📫 **How to reach me:**
+- ➡️ daniela.paz.1990@gmail.com
+- ➡️ www.linkedin.com/in/daniela-espinoza-torres
+
+
 
 ```js
   const Daniela = {
