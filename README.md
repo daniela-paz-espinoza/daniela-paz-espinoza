@@ -1,5 +1,20 @@
 <img src="https://media0.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e475cux3ogzlm5r1v134n7vng4b8u4xc3vg0xr1f0k5&rid=200w.webp&ct=g" width="200"/>
 
+### Hi there 👋, Mi nombre es Daniela
+#### Front - End Developer
+![Front - End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 ### Hi I´m Daniela 👋
 
 Soy Front-End Developer. Tengo experiencia en trato con clientes, por lo que he podido desarrollar habilidades como la empatia y toma de decisiones. Me destaco por ser detallista y observadora. Me gusta mucho el diseño y el trabajar en equipo. Me considero una persona versátil y que disfruta de los cambios.
