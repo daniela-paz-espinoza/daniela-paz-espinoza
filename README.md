@@ -4,6 +4,8 @@
 
 Soy Front-End Developer. Tengo experiencia en trato con clientes, por lo que he podido desarrollar habilidades como la empatia y toma de decisiones. Me destaco por ser detallista y observadora. Me gusta mucho el diseño y el trabajar en equipo. Me considero una persona versátil y que disfruta de los cambios.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-paz-espinoza&theme=dark&show_icons=true)
+
 ```js
   const Daniela = {
    code: [Javascript, HTML5, CSS3],
@@ -13,4 +15,4 @@ Soy Front-End Developer. Tengo experiencia en trato con clientes, por lo que he 
 }
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-paz-espinoza&theme=dark&show_icons=true)
+
