@@ -12,3 +12,5 @@ Soy Front-End Developer. Tengo experiencia en trato con clientes, por lo que he 
   challenge: "I'm learning web development in #180days, focused on JavaScript and React"
 }
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniela-paz-espinoza&theme=dark&show_icons=true)
